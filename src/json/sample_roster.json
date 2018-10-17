@@ -1,0 +1,124 @@
+{
+  "players": [
+    {
+      "name": "Bill Freehan",
+      "position": "GK",
+      "team": "Detroit Tigers",
+      "points": "51"
+    },
+    {
+      "name": "Bobby France",
+      "position": "GK",
+      "team": "Montreal Oilers",
+      "points": "13"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "position": "DEF",
+      "team": "Wrestlemania",
+      "points": "25"
+    },
+    {
+      "name": "Mario Lemeaux",
+      "position": "DEF",
+      "team": "Hockey Guy",
+      "points": "89"
+    },
+    {
+      "name": "Dancing Queen",
+      "position": "DEF",
+      "team": "ABBA",
+      "points": "53"
+    },
+    {
+      "name": "Eric The Red",
+      "position": "DEF",
+      "team": "Unicorns",
+      "points": "43"
+    },
+    {
+      "name": "Yasmeen Bleeth",
+      "position": "DEF",
+      "team": "Baywatch",
+      "points": "151"
+    },
+    {
+      "name": "Bill Lambeer",
+      "position": "DEF",
+      "team": "Detroit Pistons",
+      "points": "8"
+    },
+    {
+      "name": "Bill Pullman",
+      "position": "DEF",
+      "team": "Independence Day",
+      "points": "111"
+    },
+    {
+      "name": "Tony The Tiger",
+      "position": "MID",
+      "team": "Detroit Tigers",
+      "points": "41"
+    },
+    {
+      "name": "Johnny Cage",
+      "position": "MID",
+      "team": "Mortal Kombat",
+      "points": "33"
+    },
+    {
+      "name": "Ricky Gervais",
+      "position": "MID",
+      "team": "The Offices",
+      "points": "2001"
+    },
+    {
+      "name": "Chester Cheetah",
+      "position": "MID",
+      "team": "Detroit Tigers",
+      "points": "21"
+    },
+    {
+      "name": "Drake",
+      "position": "MID",
+      "team": "Rap Guy",
+      "points": "64"
+    },
+    {
+      "name": "Lovely Rita",
+      "position": "MID",
+      "team": "Beatles Song",
+      "points": "11"
+    },
+    {
+      "name": "Pinocchio",
+      "position": "MID",
+      "team": "Fairy Tails",
+      "points": "22"
+    },
+    {
+      "name": "Pamela Anderson",
+      "position": "FWD",
+      "team": "Baywatch",
+      "points": "31"
+    },
+    {
+      "name": "Yellow Submarine",
+      "position": "FWD",
+      "team": "Beatles Song",
+      "points": "221"
+    },
+    {
+      "name": "Red Honda",
+      "position": "FWD",
+      "team": "Cool Cars",
+      "points": "213"
+    },
+    {
+      "name": "Mickey Lolich",
+      "position": "FWD",
+      "team": "Detroit Tigers",
+      "points": "121"
+    }
+  ]
+}
