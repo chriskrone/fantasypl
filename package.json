@@ -8,9 +8,11 @@
     "@trendmicro/react-table": "^1.0.1-alpha.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
     "react-scripts": "2.0.4",
     "react-table": "^6.8.6",
-    "react-tabs": "^2.3.0"
+    "react-tabs": "^2.3.0",
+    "redux": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
